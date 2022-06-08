@@ -9,11 +9,9 @@ Mekanlar için ziyaretçi sayısı, önünden geçen kişi sayısı ve mekâna g
 
 Günümüzde teknolojinin getirmiş olduğu imkanları kullanarak kamera sensörü ve ARM tabanlı bir mikroişlemci içeren altyapı ile müşteri trafiğinin tespiti ve takibi kolay, ucuz ve hizmet kesintisi yaşamadan hızlı bir kurulum ile entegre edilebilen bir sistem tasarımı amaçlanmıştır. Böylelikle mağazada hizmette herhangi bir kesinti olmadan tüm veriler bir merkezde toplanacaktır.
 
-Projenin detaylı açıklamaları için <a href="https://github.com/barisersoy/B-Eye/wiki">WIKI</a> sayfasını ziyaret edebilirsiniz.
+## Projenin detaylı açıklamaları için <a href="https://github.com/barisersoy/B-Eye/wiki">WIKI</a> sayfasını ziyaret edebilirsiniz.
 
 Bu proje Marmara Üniversitesi Elektrik-Elektronik Mühendisliği Yüksek Lisans dersi olan Gömülü Sistemler ile Mobil Uygulamalar dersi için gerçekleştirilmiştir.
 
 Dr.Öğr.Üyesi SERKAN AYDIN hocamıza desteklerinden ötürü teşekkür ederim.
-
-https://github.com/barisersoy/B-Eye/wiki
 
